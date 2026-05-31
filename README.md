@@ -1,8 +1,18 @@
-# Hey, I'm Kimi 👋
+<h1 align="center">Hi 👋 I'm Kimi</h1>
 
-### Student • Developer • Builder
+<h3 align="center">
+Student Developer • Programmer • Builder
+</h3>
 
-I'm a high school student in New York who enjoys building projects that solve real problems. Most of my time is currently spent on web development, and learning new technologies through hands-on projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimiqiqi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="mailto:kimiqiqi566@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kimiqiqi566%40gmail.com-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -10,13 +20,13 @@ I'm a high school student in New York who enjoys building projects that solve re
 
 🎓 High School Student
 
-🤖 Programmer for FRC Robotics Team 
+🤖 Programmer for FRC Team
 
-💻 Interested in Software Engineering, Robotics, and Data
+💻 Passionate about Software Development, Robotics, and Building Real Projects
 
-🌱 Currently learning Java, React, and advanced robotics programming
+🌱 Currently learning Java, React, WPILib, and Full-Stack Development
 
-🎯 Goal: Build technology that makes a positive impact on people's lives
+🎯 Long-Term Goal: Build technology that positively impacts people
 
 ---
 
@@ -30,6 +40,44 @@ I'm a high school student in New York who enjoys building projects that solve re
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kimiqiqi&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🏗 Featured Projects
+
+### 🚀 UpwardEase
+
+Student-centered platform designed to help students share stress-coping experiences and support each other through video storytelling.
+
+**Focus Areas**
+- Student wellness
+- Video sharing
+- Modern web development
+- Community building
+
+---
+
+### 🤖 FRC Team Website
+
+A modern website built for our robotics team featuring:
+
+- Team information
+- Outreach activities
+- Competition updates
+- Interactive UI/UX
+
+---
+
+### ⚙️ FRC Robot Code
+
+Programming and autonomous systems development for FIRST Robotics Competition robots.
+
+**Technologies**
+- Java
+- WPILib
+- PathPlanner
+- CTRE Phoenix
+- GitHub
 
 ---
 
@@ -51,42 +99,44 @@ I'm a high school student in New York who enjoys building projects that solve re
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🌟 Featured Projects
+## 📈 Contribution Activity
 
-### 🚀 UpwardEase
-
-A platform designed to help students share stress-coping experiences and support each other through video storytelling.
-
-### 🤖 FRC Team Website
-
-A modern website project built for our robotics team, featuring team information, outreach activities, and project showcases.
-
-### ⚙️ FRC Robot Code
-
-Programming and autonomous systems development for FIRST Robotics Competition robots using Java and WPILib.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimiqiqi&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 Current Goals
+## 🐍 Contribution Snake
 
-- Build more real-world projects
-- Improve full-stack development skills
-- Contribute more consistently on GitHub
-- Learn advanced robotics software architecture
-- Explore computer science and engineering careers
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kimiqiqi/kimiqiqi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 Current Interests
+
+- Web Development
+- Software Engineering
+- Computer Science
+- Engineering Design
+- Building Useful Projects
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: kimiqiqi566@gmail.com
+📧 Email: **kimiqiqi566@gmail.com**
 
-💻 GitHub: https://github.com/kimiqiqi
+💻 GitHub: **github.com/kimiqiqi**
 
 ---
 
-> "The best way to learn is by building."
+<p align="center">
+  <i>"The best way to learn is by building."</i>
+</p>
